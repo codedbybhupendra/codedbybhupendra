@@ -5,9 +5,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=codedbybhupendra&color=dc143c&abbreviated=true)
 
 <h2>⚡️ Where to find me</h2>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhupendrapatel-tech)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Bhupendra01__) 
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/bhupendrapatel-tech" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Bhupendra01__" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25"  />
+  </a>
+</div>
 <h1>Hi 👋, I'm Bhupendra Patel</h1>
 <p>Aspiring Full Stack Developer </p>
 <h3 align="left">🛠 Language and tools</h3>
