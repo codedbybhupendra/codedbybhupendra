@@ -4,7 +4,7 @@
 
 <h1>Hi 👋, I'm Bhupendra Patel</h1>
 <p>Aspiring Full Stack Developer </p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h3 align="left">🛠 Language and tools</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
