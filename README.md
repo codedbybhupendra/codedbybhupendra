@@ -20,7 +20,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
 </div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=codedbybhupendra&show_icons=true&locale=en" alt="codedbybhupendra" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codedbybhupendra&show_icons=true&locale=en&layout=compact" alt="codedbybhupendra" /></p>
 
 
